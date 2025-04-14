@@ -1,6 +1,6 @@
 # Telegram Simulation - Chatting Frontend
 
-**Note: This project is not complete yet!**  
+**⚠️⚠️⚠️Note: This project is not complete yet!!!!**  
 This is the **frontend** for a **Telegram-like** chat application built with **React.js**. Currently, the project focuses on providing a basic chat interface. The real-time messaging, group chats, and direct messaging features are designed and ready on the frontend, but the backend integration (including WebSocket functionality) is yet to be completed.
 
 ## Features
